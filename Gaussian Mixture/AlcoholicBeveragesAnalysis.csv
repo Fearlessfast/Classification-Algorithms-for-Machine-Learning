@@ -1,0 +1,54 @@
+﻿Beverages,Serving Size(ml),Calories,Sold Per Day
+Beer (light),355,103,123
+Beer (regular),355,153,160
+"Beer (higher alcohol, craft beers)",355,170,56
+Gin (80 proof),355,97,23
+Gin (94 proof),45,116,14
+Rum (80 proof),45,197,34
+Rum (94 proof),45,116,21
+Vodka (80 proof),45,97,23
+Vodka (94 proof),45,116,26
+Whiskey (80 proof),45,97,45
+Whiskey (94 proof),45,116,34
+Coffee Liqueur,45,160,23
+Coffee Liqueur with cream,45,154,12
+Crème de Manthe,45,186,6
+Bloody Mary,136,120,8
+Chocolate Martini,74,4188,6
+Cosmopolitan,81,146,7
+Daiquiri,80,137,8
+Highball,235,110,6
+Hot buttered rum,235,292,12
+Mai Tai,145,306,15
+Margarita,120,168,43
+Mimosa,120,75,23
+Mint Julep,135,165,24
+Mojito,177,143,34
+Pina colada,200,526,23
+Rum and coke,235,185,12
+Rum and diet coke,235,100,14
+Tequila sunrise,200,232,18
+Vodka and tonic,207,189,21
+Whiskey sour,89,125,15
+White russian,235,568,18
+White table wine,145,128,19
+Gewurztraminer,145,128,23
+Muscat,145,129,12
+Riesling,145,129,23
+Chenin Blanc,145,129,12
+Chardonnay,145,128,15
+Sauvignon Blanc,145,128,32
+Fume Blanc,145,128,18
+Pinot Grigio,145,128,34
+Dry dessert wine,90,157,25
+Red dessert wine,145,125,34
+Red table wine,145,125,23
+Petite Sirah,145,122,12
+Merlot,145,122,50
+Cabernet Sauvignon,145,129,65
+Red Zinfandel,145,122,8
+Burgundy,145,121,9
+Pinot noir,145,122,11
+Claret,145,122,13
+Syrah,145,122,17
+Red dessert wine,90,165,20
